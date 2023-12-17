@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.homePizza{
+    text-align: center;
+}
+
+.homePizza img{
+    border-radius: 23px 23px 90px 90px;
+    height: 220px;
+}
+
+.Agntext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headinghilight{
+    text-align: left;
+}
+
+.headinghilight h2{
+    font-size: 46px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #7171d5;
+}
+.headinghilight h3{
+    font-size: 25px;
+    text-transform: capitalize;
+}

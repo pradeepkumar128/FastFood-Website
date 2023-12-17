@@ -1,0 +1,14 @@
+
+.not_found{
+    text-align: center;
+    margin: 100px;
+}
+.not_found img{
+    height: 150px;
+}
+.errortxt{
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #6a6a6a;
+}

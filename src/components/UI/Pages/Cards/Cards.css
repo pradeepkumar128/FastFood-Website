@@ -1,0 +1,20 @@
+.container {
+  margin-top: 20px;
+}
+
+.gap {
+  row-gap: 21px;
+}
+
+.title_txt{
+  text-transform: uppercase ;
+  font-weight: 800;
+  font-size: 22px;
+}
+.card-text{
+  font-size: 15px;
+  text-transform: capitalize;
+}
+img{
+  height: 200px;
+}

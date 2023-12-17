@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hearderBg{
+    background: #0e4138e0;
+    box-shadow: 0px 2px 10px;
+}
+
+.logotext{
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+    margin-right: 80px;
+    margin-left: 4px;
+}
+
+.menutxt{
+    color: #fff;
+    line-height: 2.5rem;
+    font-size: 1.3rem;
+}
+
+.menutxt:hover{
+    color: #000;
+}
+
+.cartIcon{
+    margin-left: 350px;
+}
